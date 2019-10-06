@@ -262,7 +262,6 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-feed
-  minima
   minimal-mistakes-jekyll
   tzinfo
   tzinfo-data
