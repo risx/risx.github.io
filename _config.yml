@@ -28,9 +28,10 @@ twitter_username: risx_
 github_username:  risx
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.17.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 defaults:
   # _posts
